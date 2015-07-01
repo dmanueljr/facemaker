@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  age: MyString
+  race: MyString
+  image_url: MyString
+  gender: MyString
+  smiling: MyString
+  dateString: MyString
+
+two:
+  age: MyString
+  race: MyString
+  image_url: MyString
+  gender: MyString
+  smiling: MyString
+  dateString: MyString
